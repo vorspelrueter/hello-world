@@ -172,13 +172,6 @@ social:
     desc: Share to Reddit
     share: true
 
-  - name: "Hacker News"
-    icon: hacker-news
-    username:ets/logo.png"
-    fb_image_width: 612
-    fb_image_height: 605
-    fb_image_type: "image/png"
-
     twitter_image: "/assets/logo.png"
 
     os_repo: "https://github.com/bencentra/centrarium.com"
